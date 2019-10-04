@@ -1,0 +1,10 @@
+C:\Users\vladi\Desktop\language analyzer\language analyzer\bin\Debug\language analyzer.exe.config
+C:\Users\vladi\Desktop\language analyzer\language analyzer\bin\Debug\language analyzer.exe
+C:\Users\vladi\Desktop\language analyzer\language analyzer\bin\Debug\language analyzer.pdb
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language analyzer.csprojAssemblyReference.cache
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language_analyzer.Form1.resources
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language_analyzer.Properties.Resources.resources
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language analyzer.csproj.GenerateResource.cache
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language analyzer.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language analyzer.exe
+C:\Users\vladi\Desktop\language analyzer\language analyzer\obj\Debug\language analyzer.pdb
